@@ -73,12 +73,6 @@ const Home = () => {
     }
   };
 
-
-
-  <p> this is the random para to understabnd git process</p>
-
-
-
   return (
     <>
       {/* Hero Section */}
